@@ -1,0 +1,53 @@
+body { padding-top: 70px; }
+
+a {
+	color : #FFFFFF;
+}
+
+label {
+	color : #FFFFFF;
+}
+
+.navbar-black {
+	background-color:#2D3538;	
+	border-color: #383838;
+	padding-top: -3px;
+}
+
+.navbar .brand {
+	padding: 10px 10px 10px 10px;
+	width: 180px;
+}
+
+.dropdown-menu {
+	background-color: #383838;
+	
+}
+
+.navbar-nav {
+	margin: 7.5px 10px;
+}
+
+.dropdown-menu>li>a {
+	color : #FFFFFF;
+}
+
+.form-menu input[type=text],.form-menu input[type=password],.form-menu input[type=email] {
+    position:relative;
+    height:40px;
+    width:auto;
+    padding:12px;
+    margin-top:10px;
+    color:#979797;
+    background:#464646;
+    border-radius:0;
+    border:0;
+}
+.form-menu button {
+	float : right;
+}
+
+.visual {
+	height: 359px;
+	background: url(../img/visualBg.jpg) no-repeat 0 0;
+}
